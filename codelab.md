@@ -126,7 +126,7 @@ Vous allez utiliser un projet exemple pour découvrir l'accessibilité par la pr
 
 ### Télécharger le projet
 
-Le projet exemple est à télécharger sur le lien suivant : [https://wetransfer.com/downloads/2d18dd1ea849d22698521307fcec085720230321003757/f39bf2](https://wetransfer.com/downloads/2d18dd1ea849d22698521307fcec085720230321003757/f39bf2)
+Le projet exemple est à télécharger sur le lien suivant : [https://github.com/Zenika/very-bad-site/archive/refs/heads/main.zip](https://github.com/Zenika/very-bad-site/archive/refs/heads/main.zip)
 
 Récupérez le .zip puis dézippez le dans le répertoire de votre choix sur votre PC.
 
